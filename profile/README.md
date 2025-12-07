@@ -1,7 +1,5 @@
 # OCPSS
 
-Organização Colaborativa de Projetos de Sistemas de Software
-
 A OCPSS é um repositório colaborativo criado para centralizar, organizar e compartilhar os projetos desenvolvidos na disciplina de Projetos de Sistemas de Software. O objetivo é promover a colaboração, o versionamento adequado e as boas práticas de desenvolvimento em equipe.
 
 ## 🎯 Objetivos
@@ -17,8 +15,6 @@ A OCPSS é um repositório colaborativo criado para centralizar, organizar e com
 - Criar um portfólio acadêmico dos trabalhos desenvolvidos
 
 ## 👥 Organização e Colaboração
-
-- Cada projeto deve ser desenvolvido em equipe
 
 - Todos os integrantes devem contribuir com commits
 
@@ -38,6 +34,6 @@ A OCPSS é um repositório colaborativo criado para centralizar, organizar e com
 
 ## 🛠️ Tecnologias
 
-📌 Observações
+## 📌 Observações
 
-Este repositório tem fins acadêmicos e serve como registro das atividades práticas da disciplina.
+- Este repositório tem fins acadêmicos e serve como registro das atividades práticas da disciplina.
